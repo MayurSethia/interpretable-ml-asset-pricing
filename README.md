@@ -56,8 +56,6 @@ Economic regimes analyzed:
 - Post-GFC QE (2010-2019)
 - COVID + inflation (2020-present)
 
-## 🚀 Quick Start
-
 ### Prerequisites
 ```bash
 Python 3.8+
